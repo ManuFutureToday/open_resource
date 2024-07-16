@@ -1,2 +1,2 @@
 # open_resource
-any open resource for ManuFutureToday
+any open resource for ManuFutureToday -
