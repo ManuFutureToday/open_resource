@@ -1,2 +1,2 @@
-# open_resource created by Eunseob
+# open_resource	
 any open resource for ManuFutureToday
